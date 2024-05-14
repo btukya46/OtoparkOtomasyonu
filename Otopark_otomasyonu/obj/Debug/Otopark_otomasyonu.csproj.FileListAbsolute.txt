@@ -1,0 +1,111 @@
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YeniHesap.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YetkiliGiris.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_cikis.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_ekleme.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.home.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yönetici.resources
+C:\Users\casper\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.sorgulama.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_cikis.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_ekleme.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.home.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.sorgulama.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YeniHesap.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YetkiliGiris.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yönetici.resources
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\ANB-LAB\Desktop\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otopark_doluluk_oranı.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_cikis.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_ekleme.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.home.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otopark_doluluk_oranı.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.sorgulama.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YeniHesap.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yetkili_giris.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yönetici.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.mudur_anasayfa.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.hakkimizda.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.iletisim.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.anasayfa.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.PersonelAlım.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.MudurYardımcısıAnaSayfa.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Mali_İslemler.resources
+C:\Users\casper\Desktop\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Vergi_İslemleri.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.anasayfa.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_cikis.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.arac_ekleme.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.hakkimizda.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.home.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.iletisim.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Mali_İslemler.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.MudurYardımcısıAnaSayfa.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.mudur_anasayfa.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otopark_doluluk_oranı.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.PersonelAlım.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.sorgulama.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Vergi_İslemleri.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YeniHesap.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yetkili_giris.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yönetici.resources
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\batka\OneDrive\Desktop\SYP dersi Otopark Otomasyonu\SYP dersi Otopark Otomasyonu\Otopark Otomasyonu\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe.config
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.exe
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\bin\Debug\Otopark_otomasyonu.pdb
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.anasayfa.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Form1.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.hakkimizda.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.home.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.iletisim.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Mali_İslemler.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.MudurYardımcısıAnaSayfa.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.mudur_anasayfa.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.otopark_doluluk_oranı.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.PersonelAlım.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Properties.Resources.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.sorgulama.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.Vergi_İslemleri.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.YeniHesap.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yetkili_giris.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.yönetici.resources
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.exe
+C:\Users\batka\OneDrive\Desktop\Otopark_otomasyonu\Otopark_otomasyonu\obj\Debug\Otopark_otomasyonu.pdb
